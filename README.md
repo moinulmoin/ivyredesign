@@ -1,3 +1,3 @@
 # ivyredesign
 # Only Desktop View. Not responsive completely
-# live preview: 
+# live preview: https://moinulmoin.github.io/ivyredesign/
